@@ -1,8 +1,6 @@
 # TAREA-MVN-GITY-HEROKU
 
-Taller para repasar Heroku, el manejo de repositorios en Git y Heroku, también vemos el Toolbelt de Heroku que permite manipular por medio de comandos la infraestructura en la
-nube donde desplegará su aplicación y se aprende del manejo de SparkWeb.
-
+Tarea que en el que se tiene manejo de Maven, Git y Heroku, esta tarea consiste en crear dos clientes los cuales se comunicaran con un servidor Heroku y extraera la información en forma de JSON de las APIs de Alpha Ventage e IEX Cloud, para posteriormente ser transportadas por medio del protocolo y representadas en nuestros clientes. 
 
 ### Requisitos previos
 
