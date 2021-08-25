@@ -62,11 +62,11 @@ Corra la aplicación localmente emulando Heroku:
 * [IntelliJ]: Es un entorno de desarrollo integrado (IDE) para el desarrollo de programas informáticos.
 * [Git]: Herramienta que realiza una función del control de versiones de código de forma distribuida
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [![Heroku] (https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/apps/desolate-bayou-20514)
+* [![Heroku] (https://www.herokucdn.com/deploy/button.svg)](https://git.heroku.com/tareamvngityherokuanasalazar.git)
 
 ## Autor
 
-Ana Maria Salazar Bohorquez -  Trabajo - (https://github.com/anamariasalazar/Heroku-Ana-Salazar)
+Ana Maria Salazar Bohorquez -  Trabajo - (https://git.heroku.com/tareamvngityherokuanasalazar.git)
 
 ## Licencia
 
