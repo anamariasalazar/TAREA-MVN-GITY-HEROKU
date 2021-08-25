@@ -62,7 +62,8 @@ Corra la aplicación localmente emulando Heroku:
  Cuando se abra la App al final el link poner la extensión facadealpha o facadealiex 
  
  Por ejemplo:
- https://tareamvngityherokuanasalazar.herokuapp.com/facadealpha
+   * https://tareamvngityherokuanasalazar.herokuapp.com/facadealpha
+   * https://tareamvngityherokuanasalazar.herokuapp.com/facadeiex
   
 ## Construido con
 
@@ -71,6 +72,7 @@ Corra la aplicación localmente emulando Heroku:
 * [Git]: Herramienta que realiza una función del control de versiones de código de forma distribuida
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [![Heroku] (https://www.herokucdn.com/deploy/button.svg)](https://git.heroku.com/tareamvngityherokuanasalazar.git)
+* [Spark Web]: Spark te permite convertir tus textos y fotografías en gráficos de aspecto profesional que llamarán la atención de todos. 
 
 ## Autor
 
