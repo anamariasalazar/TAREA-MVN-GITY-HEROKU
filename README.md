@@ -67,12 +67,12 @@ Corra la aplicación localmente emulando Heroku:
   
 ## Construido con
 
-* [Java]: Tecnología que se usa para el desarrollo de aplicaciones que convierten a la Web en un elemento más interesante y útil.
-* [IntelliJ]: Es un entorno de desarrollo integrado (IDE) para el desarrollo de programas informáticos.
-* [Git]: Herramienta que realiza una función del control de versiones de código de forma distribuida
+* [Java] : Tecnología que se usa para el desarrollo de aplicaciones que convierten a la Web en un elemento más interesante y útil.
+* [IntelliJ] : Es un entorno de desarrollo integrado (IDE) para el desarrollo de programas informáticos.
+* [Git] : Herramienta que realiza una función del control de versiones de código de forma distribuida
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [![Heroku] (https://www.herokucdn.com/deploy/button.svg)](https://git.heroku.com/tareamvngityherokuanasalazar.git)
-* [Spark Web]: Spark te permite convertir tus textos y fotografías en gráficos de aspecto profesional que llamarán la atención de todos. 
+* [Spark Web] : Spark te permite convertir tus textos y fotografías en gráficos de aspecto profesional que llamarán la atención de todos. 
 
 ## Autor
 
