@@ -58,6 +58,11 @@ Corra la aplicación localmente emulando Heroku:
 ## Directo con el link de heroku
 
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/apps/tareamvngityherokuanasalazar)
+ 
+ Cuando se abra la App al final el link poner la extensión facadealpha o facadealiex 
+ 
+ Por ejemplo:
+ https://tareamvngityherokuanasalazar.herokuapp.com/facadealpha
   
 ## Construido con
 
@@ -69,7 +74,7 @@ Corra la aplicación localmente emulando Heroku:
 
 ## Autor
 
-Ana Maria Salazar Bohorquez -  Trabajo - (https://git.heroku.com/tareamvngityherokuanasalazar.git)
+Ana Maria Salazar Bohorquez (https://github.com/anamariasalazar)
 
 ## Licencia
 
