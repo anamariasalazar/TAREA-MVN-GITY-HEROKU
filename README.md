@@ -50,8 +50,10 @@ Corra la aplicación localmente emulando Heroku:
      heroku local web
      ```
    * Se ve el despliege en el siguiente link:
-   http://localhost:4567/facadeiex
-   http://localhost:4567/facadealpha
+   
+      *http://localhost:4567/facadeiex
+   
+      *http://localhost:4567/facadealpha
    
 ## Directo con el link de heroku
 
